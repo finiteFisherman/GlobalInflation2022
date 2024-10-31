@@ -1,0 +1,14 @@
+HCPI: Headline CPI
+CCRE:Core Consumer
+ECPI:	Energy Consumer Price Inflation
+FCPI:	Food Consumer Price Inflation
+CLI:	Cost of Living Index
+RI:	Rent Index
+CL&RI:	Cost of Living Plus Rent Index
+GI:	Groceries Index
+RPI:	Restaurant Price Index
+LPPI:	Local Purchasing Power Index
+Popul:	population
+GDP:    gdp_per_capita
+
+
